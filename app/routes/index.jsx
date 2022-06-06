@@ -8,7 +8,7 @@ const Index = () => {
         Remix Tailwind Styled Components
       </h1>
       <Button
-        href="https://www.google.com"
+        href="https://github.com/dominggo1999/remix-tailwind-styled"
         target="_blank"
         rel="noopener noreferrer"
       >
